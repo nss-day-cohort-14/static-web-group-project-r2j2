@@ -1,0 +1,56 @@
+
+/*
+FONT FAMILIES AVAILABLE 
+
+font-family: 'Crimson Text', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Noto Serif', serif;
+
+LINK FOR INDEX.HTML DOC
+
+  <link href='https://fonts.googleapis.com/css?family=Noto+Serif|Libre+Baskerville|Crimson+Text' rel='stylesheet' type='text/css'>  
+
+*/
+
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.fullWidthImage {
+  width: 100%;
+}
+
+.sectionParagraph {
+}
+
+.section {
+
+}
+
+.sectionHeading {
+  text-align: center;
+}
+
+.sectionSubHeading {
+  text-align: center;
+}
+
+.sectionSubSubHeading {
+  text-align: center;
+}
+
+.inputText {
+}
+
+.textArea {
+
+}
+
+.buyNowButton {
+}
+
+.emailLink {
+}
+
