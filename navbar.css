@@ -1,0 +1,50 @@
+ul {
+	padding: 0;
+	margin-bottom: 2px;
+}
+
+body {
+	margin: 0;
+}
+
+nav {
+	position: relative;
+	box-sizing: border-box;
+}
+
+/*nav list items*/
+nav li {
+	display: inline-block;
+	list-style: none;
+	margin: 20px 10px -6px 10px;
+	padding: 3px;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+/*Nav header with border*/
+.nav {
+	border: 2px solid black;
+	background-color: black;
+}
+
+/*shopping cart*/
+.cart {
+	margin-right: 10px;
+	color: #fff;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	font-size: 1.35em;
+	border: #434a4d;
+	background-color: black;
+}
+
+img {
+	height: 30px;
+	width: 30px;
+	float: left;
+}
+
+
+
