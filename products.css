@@ -1,0 +1,24 @@
+/*base styles*/
+
+/*div {
+  box-sizing: border-box;
+  width: 30%;
+  border: 2px solid black;
+  display: inline-block;
+}*/
+
+div#container div {
+  border: 1px solid black;
+  width: 30%;
+  margin: 2px;
+  display: inline-block;
+}
+
+img {
+  width: 50%;
+}
+
+p {
+  text-align: center;
+  margin: 2rem;
+}
