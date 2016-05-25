@@ -11,7 +11,9 @@ LINK FOR INDEX.HTML DOC
   <link href='https://fonts.googleapis.com/css?family=Noto+Serif|Libre+Baskerville|Crimson+Text' rel='stylesheet' type='text/css'>  
 
 */
-
+.footerFix {
+  margin-bottom: 80px
+}
 
 #container {
   width: 80%;
