@@ -1,0 +1,16 @@
+.founderImage {
+  display: flex;
+  margin: auto;
+  height: 400px;
+}
+
+.aboutParagraph {
+  text-align: center;
+  margin: 15px 180px;
+  font-family: 'Crimson Text', serif;
+}
+
+.aboutHeading {
+  font-family: 'Libre Baskerville', serif;
+  margin: 60px 0 5px 0;
+}
