@@ -13,6 +13,14 @@ LINK FOR INDEX.HTML DOC
 
 */
 
+p {
+  font-family: 'Crimson Text', serif;
+}
+
+h1, h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+
 body p {
   margin: 0;
 }
