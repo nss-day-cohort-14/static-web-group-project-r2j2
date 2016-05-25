@@ -18,9 +18,18 @@ nav li {
 	list-style: none;
 	margin: 20px 10px -6px 10px;
 	padding: 3px;
+
+	color: #fff;
+}
+
+nav li a {
+	text-decoration: none;
 	font-size: 1.5em;
 	color: #fff;
 }
+
+
+
 
 /*Nav header with border*/
 .nav {
