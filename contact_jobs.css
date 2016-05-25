@@ -1,0 +1,82 @@
+
+/*
+FONT FAMILIES AVAILABLE
+
+font-family: 'Crimson Text', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Noto Serif', serif;
+
+LINK FOR INDEX.HTML DOC
+
+  <link href='https://fonts.googleapis.com/css?family=Noto+Serif|Libre+Baskerville|Crimson+Text'
+   rel='stylesheet' type='text/css'>
+
+*/
+
+body p {
+  margin: 0;
+}
+
+.contactDiv {
+  box-sizing: border-box;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contactDiv h1 {
+  margin: 1rem 0;
+}
+
+.contactForm {
+  width: 60%;
+  margin-top: 1rem;
+  display: inline-block;
+  position: relative;
+}
+
+.contactForm p {
+  display: inline-block;
+  margin: 1rem;
+}
+
+.companyInfo {
+  width: 30%;
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+.companyInfo p {
+  margin: 1rem;
+}
+
+.linkInfo {
+  text-align: center;
+}
+
+.contactHeading {
+  text-align: center;
+}
+
+.textArea {
+  margin: auto;
+}
+
+/*    Job Posting Section   */
+
+.jobPostings {
+  box-sizing: border-box;
+  width: 80%;
+  margin: 2rem auto;
+}
+
+/*    Buttons   */
+
+.sendEmailButton {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: .2rem;
+}
+
+.applyButton {
+  text-align: right;
+}
