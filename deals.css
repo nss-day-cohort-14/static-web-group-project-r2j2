@@ -1,0 +1,29 @@
+html {
+	background-image: url("../img/buckles.jpg");
+}
+
+.addEmail {
+	background-color: rgba(209, 209, 224, .95);
+	font-size: 2em;
+	text-align: center;
+	padding-top: 25px;
+	width: 75%;
+	margin: 20px auto;
+	border: 2px solid black;
+	height: 150px;
+}
+
+
+.dealsButton {
+	float: left;
+	border-radius: 20px;
+	font-size: 3em;
+	display: inline-block;
+	padding: 10px;
+	margin: 5%;
+	border: 3px dashed black;
+	height: 300px;
+	width: 40%;
+	background-color: rgba(209, 209, 224, .95);
+}
+
