@@ -13,10 +13,6 @@ LINK FOR INDEX.HTML DOC
 */
 
 
-.footerFix {
-  margin-bottom: 80px
-}
-
 #container {
   width: 80%;
   margin: 0 auto;
@@ -51,14 +47,14 @@ LINK FOR INDEX.HTML DOC
 	margin: 20px;
 	text-align: center;
 	font-size: 2.5rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Libre Baskerville', serif;
 }
 
 #companyInfo p {
 	padding: 0 15%;
 	text-align: justify;
 	font-size: 1.25rem;
-	font-family: 'Libre Baskerville', serif;
+	font-family: 'Crimson Text', serif;
 	color: #888;
 }
 
