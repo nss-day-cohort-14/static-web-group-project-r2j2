@@ -41,6 +41,27 @@ LINK FOR INDEX.HTML DOC
   text-align: center;
 }
 
+/*index.html special styling*/
+#companyInfo h1 {
+/*	padding: 0 25%;*/
+	margin: 20px;
+	text-align: center;
+	font-size: 2.5rem;
+	font-family: 'Noto Serif', serif;
+}
+
+#companyInfo p {
+	padding: 0 15%;
+	text-align: justify;
+	font-size: 1.25rem;
+	font-family: 'Libre Baskerville', serif;
+	color: #888;
+}
+
+
+
+
+
 .inputText {
 }
 
